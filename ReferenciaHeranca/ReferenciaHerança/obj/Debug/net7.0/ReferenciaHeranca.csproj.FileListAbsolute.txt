@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\bin\Debug\net7.0\ReferenciaHeranca.exe
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\bin\Debug\net7.0\ReferenciaHeranca.deps.json
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\bin\Debug\net7.0\ReferenciaHeranca.runtimeconfig.json
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\bin\Debug\net7.0\ReferenciaHeranca.dll
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\bin\Debug\net7.0\ReferenciaHeranca.pdb
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ReferenciaHeranca.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ReferenciaHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ReferenciaHeranca.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ReferenciaHeranca.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ReferenciaHeranca.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ReferenciaHeranca.dll
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\refint\ReferenciaHeranca.dll
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ReferenciaHeranca.pdb
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ReferenciaHeranca.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ReferenciaHerança\ReferenciaHerança\obj\Debug\net7.0\ref\ReferenciaHeranca.dll
