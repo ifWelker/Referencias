@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\Heranca2\Heranca2\bin\Debug\net7.0\Heranca2.exe
+C:\Users\fabio\source\repos\Heranca2\Heranca2\bin\Debug\net7.0\Heranca2.deps.json
+C:\Users\fabio\source\repos\Heranca2\Heranca2\bin\Debug\net7.0\Heranca2.runtimeconfig.json
+C:\Users\fabio\source\repos\Heranca2\Heranca2\bin\Debug\net7.0\Heranca2.dll
+C:\Users\fabio\source\repos\Heranca2\Heranca2\bin\Debug\net7.0\Heranca2.pdb
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\Heranca2.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\Heranca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\Heranca2.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\Heranca2.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\Heranca2.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\Heranca2.dll
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\refint\Heranca2.dll
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\Heranca2.pdb
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\Heranca2.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Heranca2\Heranca2\obj\Debug\net7.0\ref\Heranca2.dll
