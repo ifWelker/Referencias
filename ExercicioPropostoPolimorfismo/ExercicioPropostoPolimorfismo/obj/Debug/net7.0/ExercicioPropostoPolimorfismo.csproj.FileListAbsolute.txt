@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ExercicioPropostoPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ExercicioPropostoPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ExercicioPropostoPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ExercicioPropostoPolimorfismo.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ExercicioPropostoPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\bin\Debug\net7.0\ExercicioPropostoPolimorfismo.exe
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\bin\Debug\net7.0\ExercicioPropostoPolimorfismo.deps.json
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\bin\Debug\net7.0\ExercicioPropostoPolimorfismo.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\bin\Debug\net7.0\ExercicioPropostoPolimorfismo.dll
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\bin\Debug\net7.0\ExercicioPropostoPolimorfismo.pdb
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ExercicioPropostoPolimorfismo.dll
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\refint\ExercicioPropostoPolimorfismo.dll
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ExercicioPropostoPolimorfismo.pdb
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ExercicioPropostoPolimorfismo.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExercicioPropostoPolimorfismo\ExercicioPropostoPolimorfismo\obj\Debug\net7.0\ref\ExercicioPropostoPolimorfismo.dll
