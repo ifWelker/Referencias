@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\FixacaoAbstract.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\FixacaoAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\FixacaoAbstract.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\FixacaoAbstract.AssemblyInfo.cs
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\FixacaoAbstract.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\bin\Debug\net7.0\FixacaoAbstract.exe
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\bin\Debug\net7.0\FixacaoAbstract.deps.json
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\bin\Debug\net7.0\FixacaoAbstract.runtimeconfig.json
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\bin\Debug\net7.0\FixacaoAbstract.dll
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\bin\Debug\net7.0\FixacaoAbstract.pdb
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\FixacaoAbstract.dll
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\refint\FixacaoAbstract.dll
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\FixacaoAbstract.pdb
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\FixacaoAbstract.genruntimeconfig.cache
+C:\Users\fabio\source\repos\FixacaoAbstract\FixacaoAbstract\obj\Debug\net7.0\ref\FixacaoAbstract.dll
