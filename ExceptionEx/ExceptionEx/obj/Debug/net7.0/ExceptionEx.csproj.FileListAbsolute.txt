@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\bin\Debug\net7.0\ExceptionEx.exe
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\bin\Debug\net7.0\ExceptionEx.deps.json
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\bin\Debug\net7.0\ExceptionEx.runtimeconfig.json
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\bin\Debug\net7.0\ExceptionEx.dll
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\bin\Debug\net7.0\ExceptionEx.pdb
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ExceptionEx.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ExceptionEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ExceptionEx.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ExceptionEx.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ExceptionEx.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ExceptionEx.dll
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\refint\ExceptionEx.dll
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ExceptionEx.pdb
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ExceptionEx.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExceptionEx\ExceptionEx\obj\Debug\net7.0\ref\ExceptionEx.dll
