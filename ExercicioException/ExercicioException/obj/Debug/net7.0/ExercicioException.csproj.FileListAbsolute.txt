@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\bin\Debug\net7.0\ExercicioException.exe
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\bin\Debug\net7.0\ExercicioException.deps.json
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\bin\Debug\net7.0\ExercicioException.runtimeconfig.json
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\bin\Debug\net7.0\ExercicioException.dll
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\bin\Debug\net7.0\ExercicioException.pdb
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ExercicioException.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ExercicioException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ExercicioException.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ExercicioException.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ExercicioException.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ExercicioException.dll
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\refint\ExercicioException.dll
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ExercicioException.pdb
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ExercicioException.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExercicioException\ExercicioException\obj\Debug\net7.0\ref\ExercicioException.dll
