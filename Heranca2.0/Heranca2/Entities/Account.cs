@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heranca2.Entities
 {
-    class Account
+    abstract class Account
     {
 
         //Atributos + Construtores

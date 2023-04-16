@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net7.0\FileFileInfoIOException.exe
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net7.0\FileFileInfoIOException.deps.json
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net7.0\FileFileInfoIOException.runtimeconfig.json
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net7.0\FileFileInfoIOException.dll
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\net7.0\FileFileInfoIOException.pdb
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\FileFileInfoIOException.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\FileFileInfoIOException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\FileFileInfoIOException.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\FileFileInfoIOException.AssemblyInfo.cs
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\FileFileInfoIOException.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\FileFileInfoIOException.dll
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\refint\FileFileInfoIOException.dll
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\FileFileInfoIOException.pdb
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\FileFileInfoIOException.genruntimeconfig.cache
+C:\Users\fabio\source\repos\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\net7.0\ref\FileFileInfoIOException.dll
