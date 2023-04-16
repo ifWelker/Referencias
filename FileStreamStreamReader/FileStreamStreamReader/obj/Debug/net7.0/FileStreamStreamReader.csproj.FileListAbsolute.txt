@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net7.0\FileStreamStreamReader.exe
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net7.0\FileStreamStreamReader.deps.json
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net7.0\FileStreamStreamReader.runtimeconfig.json
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net7.0\FileStreamStreamReader.dll
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\net7.0\FileStreamStreamReader.pdb
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\FileStreamStreamReader.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\FileStreamStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\FileStreamStreamReader.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\FileStreamStreamReader.AssemblyInfo.cs
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\FileStreamStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\FileStreamStreamReader.dll
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\refint\FileStreamStreamReader.dll
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\FileStreamStreamReader.pdb
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\FileStreamStreamReader.genruntimeconfig.cache
+C:\Users\fabio\source\repos\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\net7.0\ref\FileStreamStreamReader.dll
