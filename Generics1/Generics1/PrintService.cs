@@ -5,13 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Generics
-{
-    internal class PrintService
+{//Dessa vez a classe foi parametrizada para um Tipo, representado pela letra T. Ex. --NameSpace--<T>. No caso, poderia ser qualquer letra a parametrização.
+    internal class PrintService<T>
     {
-        private int[] _values = new int[10];
+        private T[] _values = new T[10];
         private int _count = 0;
 
-        public void AddValue(int value)
+        public void AddValue(T value)
         {
             if (_count == 10)
             {
@@ -21,7 +21,7 @@ namespace Generics
             _count++;
         }
 
-        public int First()
+        public T First()
         {
             if (_count == 0)
             {
