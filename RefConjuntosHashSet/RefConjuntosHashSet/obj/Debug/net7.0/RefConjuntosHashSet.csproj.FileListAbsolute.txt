@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\bin\Debug\net7.0\RefConjuntosHashSet.exe
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\bin\Debug\net7.0\RefConjuntosHashSet.deps.json
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\bin\Debug\net7.0\RefConjuntosHashSet.runtimeconfig.json
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\bin\Debug\net7.0\RefConjuntosHashSet.dll
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\bin\Debug\net7.0\RefConjuntosHashSet.pdb
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\RefConjuntosHashSet.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\RefConjuntosHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\RefConjuntosHashSet.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\RefConjuntosHashSet.AssemblyInfo.cs
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\RefConjuntosHashSet.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\RefConjuntosHashSet.dll
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\refint\RefConjuntosHashSet.dll
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\RefConjuntosHashSet.pdb
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\RefConjuntosHashSet.genruntimeconfig.cache
+C:\Users\fabio\source\repos\RefConjuntosHashSet\RefConjuntosHashSet\obj\Debug\net7.0\ref\RefConjuntosHashSet.dll
