@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\bin\Debug\net7.0\ReferenciaIComparable.exe
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\bin\Debug\net7.0\ReferenciaIComparable.deps.json
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\bin\Debug\net7.0\ReferenciaIComparable.runtimeconfig.json
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\bin\Debug\net7.0\ReferenciaIComparable.dll
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\bin\Debug\net7.0\ReferenciaIComparable.pdb
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ReferenciaIComparable.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ReferenciaIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ReferenciaIComparable.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ReferenciaIComparable.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ReferenciaIComparable.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ReferenciaIComparable.dll
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\refint\ReferenciaIComparable.dll
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ReferenciaIComparable.pdb
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ReferenciaIComparable.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ReferenciaIComparable\ReferenciaIComparable\obj\Debug\net7.0\ref\ReferenciaIComparable.dll
