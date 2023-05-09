@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\bin\Debug\net7.0\ExerConjuntos.exe
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\bin\Debug\net7.0\ExerConjuntos.deps.json
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\bin\Debug\net7.0\ExerConjuntos.runtimeconfig.json
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\bin\Debug\net7.0\ExerConjuntos.dll
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\bin\Debug\net7.0\ExerConjuntos.pdb
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ExerConjuntos.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ExerConjuntos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ExerConjuntos.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ExerConjuntos.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ExerConjuntos.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ExerConjuntos.dll
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\refint\ExerConjuntos.dll
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ExerConjuntos.pdb
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ExerConjuntos.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExerConjuntos\ExerConjuntos\obj\Debug\net7.0\ref\ExerConjuntos.dll
