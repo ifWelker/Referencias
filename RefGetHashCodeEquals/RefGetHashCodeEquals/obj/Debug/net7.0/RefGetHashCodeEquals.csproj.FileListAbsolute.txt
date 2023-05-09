@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\bin\Debug\net7.0\RefGetHashCodeEquals.exe
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\bin\Debug\net7.0\RefGetHashCodeEquals.deps.json
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\bin\Debug\net7.0\RefGetHashCodeEquals.runtimeconfig.json
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\bin\Debug\net7.0\RefGetHashCodeEquals.dll
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\bin\Debug\net7.0\RefGetHashCodeEquals.pdb
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\RefGetHashCodeEquals.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\RefGetHashCodeEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\RefGetHashCodeEquals.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\RefGetHashCodeEquals.AssemblyInfo.cs
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\RefGetHashCodeEquals.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\RefGetHashCodeEquals.dll
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\refint\RefGetHashCodeEquals.dll
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\RefGetHashCodeEquals.pdb
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\RefGetHashCodeEquals.genruntimeconfig.cache
+C:\Users\fabio\source\repos\RefGetHashCodeEquals\RefGetHashCodeEquals\obj\Debug\net7.0\ref\RefGetHashCodeEquals.dll
