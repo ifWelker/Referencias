@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\bin\Debug\net7.0\ReferenciaPath.exe
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\bin\Debug\net7.0\ReferenciaPath.deps.json
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\bin\Debug\net7.0\ReferenciaPath.runtimeconfig.json
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\bin\Debug\net7.0\ReferenciaPath.dll
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\bin\Debug\net7.0\ReferenciaPath.pdb
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ReferenciaPath.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ReferenciaPath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ReferenciaPath.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ReferenciaPath.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ReferenciaPath.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ReferenciaPath.dll
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\refint\ReferenciaPath.dll
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ReferenciaPath.pdb
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ReferenciaPath.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ReferenciaPath\ReferenciaPath\obj\Debug\net7.0\ref\ReferenciaPath.dll
