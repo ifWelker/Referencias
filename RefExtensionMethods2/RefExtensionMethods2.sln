@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefExtensionMethods2", "RefExtensionMethods2\RefExtensionMethods2.csproj", "{226D5BD8-8570-42B0-BC36-603D424CFC19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226D5BD8-8570-42B0-BC36-603D424CFC19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226D5BD8-8570-42B0-BC36-603D424CFC19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226D5BD8-8570-42B0-BC36-603D424CFC19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226D5BD8-8570-42B0-BC36-603D424CFC19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0B1AA86-FE75-4F10-B528-BC1044B207E9}
+	EndGlobalSection
+EndGlobal
