@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\bin\Debug\net7.0\RefExtensionMethods2.exe
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\bin\Debug\net7.0\RefExtensionMethods2.deps.json
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\bin\Debug\net7.0\RefExtensionMethods2.runtimeconfig.json
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\bin\Debug\net7.0\RefExtensionMethods2.dll
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\bin\Debug\net7.0\RefExtensionMethods2.pdb
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\RefExtensionMethods2.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\RefExtensionMethods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\RefExtensionMethods2.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\RefExtensionMethods2.AssemblyInfo.cs
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\RefExtensionMethods2.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\RefExtensionMethods2.dll
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\refint\RefExtensionMethods2.dll
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\RefExtensionMethods2.pdb
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\RefExtensionMethods2.genruntimeconfig.cache
+C:\Users\fabio\source\repos\RefExtensionMethods2\RefExtensionMethods2\obj\Debug\net7.0\ref\RefExtensionMethods2.dll
