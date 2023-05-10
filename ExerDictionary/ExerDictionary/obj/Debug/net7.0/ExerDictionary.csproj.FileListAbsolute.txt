@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\bin\Debug\net7.0\ExerDictionary.exe
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\bin\Debug\net7.0\ExerDictionary.deps.json
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\bin\Debug\net7.0\ExerDictionary.runtimeconfig.json
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\bin\Debug\net7.0\ExerDictionary.dll
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\bin\Debug\net7.0\ExerDictionary.pdb
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ExerDictionary.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ExerDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ExerDictionary.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ExerDictionary.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ExerDictionary.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ExerDictionary.dll
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\refint\ExerDictionary.dll
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ExerDictionary.pdb
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ExerDictionary.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExerDictionary\ExerDictionary\obj\Debug\net7.0\ref\ExerDictionary.dll

@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\bin\Debug\net7.0\RefDictionary.exe
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\bin\Debug\net7.0\RefDictionary.deps.json
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\bin\Debug\net7.0\RefDictionary.runtimeconfig.json
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\bin\Debug\net7.0\RefDictionary.dll
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\bin\Debug\net7.0\RefDictionary.pdb
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\RefDictionary.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\RefDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\RefDictionary.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\RefDictionary.AssemblyInfo.cs
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\RefDictionary.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\RefDictionary.dll
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\refint\RefDictionary.dll
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\RefDictionary.pdb
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\RefDictionary.genruntimeconfig.cache
+C:\Users\fabio\source\repos\RefDictionary\RefDictionary\obj\Debug\net7.0\ref\RefDictionary.dll
