@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\RefFunc\RefFunc\bin\Debug\net7.0\RefFunc.exe
+C:\Users\fabio\source\repos\RefFunc\RefFunc\bin\Debug\net7.0\RefFunc.deps.json
+C:\Users\fabio\source\repos\RefFunc\RefFunc\bin\Debug\net7.0\RefFunc.runtimeconfig.json
+C:\Users\fabio\source\repos\RefFunc\RefFunc\bin\Debug\net7.0\RefFunc.dll
+C:\Users\fabio\source\repos\RefFunc\RefFunc\bin\Debug\net7.0\RefFunc.pdb
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\RefFunc.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\RefFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\RefFunc.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\RefFunc.AssemblyInfo.cs
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\RefFunc.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\RefFunc.dll
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\refint\RefFunc.dll
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\RefFunc.pdb
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\RefFunc.genruntimeconfig.cache
+C:\Users\fabio\source\repos\RefFunc\RefFunc\obj\Debug\net7.0\ref\RefFunc.dll
