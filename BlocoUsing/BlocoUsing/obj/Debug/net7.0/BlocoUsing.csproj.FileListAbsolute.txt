@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\BlocoUsing.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\BlocoUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\BlocoUsing.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\BlocoUsing.AssemblyInfo.cs
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\BlocoUsing.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\bin\Debug\net7.0\BlocoUsing.exe
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\bin\Debug\net7.0\BlocoUsing.deps.json
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\bin\Debug\net7.0\BlocoUsing.runtimeconfig.json
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\bin\Debug\net7.0\BlocoUsing.dll
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\bin\Debug\net7.0\BlocoUsing.pdb
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\BlocoUsing.dll
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\refint\BlocoUsing.dll
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\BlocoUsing.pdb
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\BlocoUsing.genruntimeconfig.cache
+C:\Users\fabio\source\repos\BlocoUsing\BlocoUsing\obj\Debug\net7.0\ref\BlocoUsing.dll
