@@ -1,0 +1,5 @@
+C:\Users\fabio\source\repos\StreamWriter\StreamWriter\obj\Debug\net7.0\Referencia StreamWriter.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\StreamWriter\StreamWriter\obj\Debug\net7.0\Referencia StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\StreamWriter\StreamWriter\obj\Debug\net7.0\Referencia StreamWriter.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\StreamWriter\StreamWriter\obj\Debug\net7.0\Referencia StreamWriter.AssemblyInfo.cs
+C:\Users\fabio\source\repos\StreamWriter\StreamWriter\obj\Debug\net7.0\Referencia StreamWriter.csproj.CoreCompileInputs.cache
