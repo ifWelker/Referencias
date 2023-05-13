@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\bin\Debug\net7.0\RefPredicate.exe
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\bin\Debug\net7.0\RefPredicate.deps.json
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\bin\Debug\net7.0\RefPredicate.runtimeconfig.json
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\bin\Debug\net7.0\RefPredicate.dll
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\bin\Debug\net7.0\RefPredicate.pdb
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\RefPredicate.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\RefPredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\RefPredicate.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\RefPredicate.AssemblyInfo.cs
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\RefPredicate.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\RefPredicate.dll
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\refint\RefPredicate.dll
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\RefPredicate.pdb
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\RefPredicate.genruntimeconfig.cache
+C:\Users\fabio\source\repos\RefPredicate\RefPredicate\obj\Debug\net7.0\ref\RefPredicate.dll
