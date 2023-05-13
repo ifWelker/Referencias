@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\RefLinq\RefLinq\bin\Debug\net7.0\RefLinq.exe
+C:\Users\fabio\source\repos\RefLinq\RefLinq\bin\Debug\net7.0\RefLinq.deps.json
+C:\Users\fabio\source\repos\RefLinq\RefLinq\bin\Debug\net7.0\RefLinq.runtimeconfig.json
+C:\Users\fabio\source\repos\RefLinq\RefLinq\bin\Debug\net7.0\RefLinq.dll
+C:\Users\fabio\source\repos\RefLinq\RefLinq\bin\Debug\net7.0\RefLinq.pdb
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\RefLinq.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\RefLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\RefLinq.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\RefLinq.AssemblyInfo.cs
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\RefLinq.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\RefLinq.dll
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\refint\RefLinq.dll
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\RefLinq.pdb
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\RefLinq.genruntimeconfig.cache
+C:\Users\fabio\source\repos\RefLinq\RefLinq\obj\Debug\net7.0\ref\RefLinq.dll
