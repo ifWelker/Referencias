@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ExerLinq.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ExerLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ExerLinq.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ExerLinq.AssemblyInfo.cs
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ExerLinq.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\bin\Debug\net7.0\ExerLinq.exe
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\bin\Debug\net7.0\ExerLinq.deps.json
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\bin\Debug\net7.0\ExerLinq.runtimeconfig.json
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\bin\Debug\net7.0\ExerLinq.dll
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\bin\Debug\net7.0\ExerLinq.pdb
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ExerLinq.dll
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\refint\ExerLinq.dll
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ExerLinq.pdb
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ExerLinq.genruntimeconfig.cache
+C:\Users\fabio\source\repos\ExerLinq\ExerLinq\obj\Debug\net7.0\ref\ExerLinq.dll
