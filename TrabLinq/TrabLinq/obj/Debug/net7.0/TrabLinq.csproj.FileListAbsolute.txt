@@ -1,0 +1,15 @@
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\bin\Debug\net7.0\TrabLinq.exe
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\bin\Debug\net7.0\TrabLinq.deps.json
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\bin\Debug\net7.0\TrabLinq.runtimeconfig.json
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\bin\Debug\net7.0\TrabLinq.dll
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\bin\Debug\net7.0\TrabLinq.pdb
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\TrabLinq.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\TrabLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\TrabLinq.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\TrabLinq.AssemblyInfo.cs
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\TrabLinq.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\TrabLinq.dll
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\refint\TrabLinq.dll
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\TrabLinq.pdb
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\TrabLinq.genruntimeconfig.cache
+C:\Users\fabio\source\repos\TrabLinq\TrabLinq\obj\Debug\net7.0\ref\TrabLinq.dll
